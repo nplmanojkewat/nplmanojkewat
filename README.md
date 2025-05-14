@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Manoj Kewat</h1>
 <h3 align="center">Android App developer from Nepal</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif”>
+<img align=“right” alt=“coding” width=“400” src=“[https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif](https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif)”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nplmanojkewat&label=Profile%20views&color=0e75b6&style=flat" alt="nplmanojkewat" /> </p>
